@@ -1,3 +1,3 @@
 # los_rompecabezas 
-Página que contiene información sobre los rompecabezas .
-Hecho en HTML y CSS.
+Página sobre los rompecabezas .
+Proyecto hecho en HTML y CSS.
